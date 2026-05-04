@@ -166,6 +166,11 @@ curl -X POST http://localhost:3000/products/add \
 ✅ Clear cache command with `--clear-cache`  
 ✅ Preserve original headers and status codes  
 
+## Project URL
+```bash
+https://roadmap.sh/projects/caching-server
+```
+
 ## License
 
 ISC# Caching-proxy
